@@ -1,0 +1,40 @@
+.email-item-upper{
+    padding: 10px 30px;
+    background-color:#f4f6fa;
+
+}
+
+.email-item-wrap{
+    display: flex;
+    background-color: #ffff;
+    border:0px solid white;
+    border-radius:15px;
+}
+.email-item{
+    display: flex;
+    justify-content:center;
+    cursor:pointer;
+    
+}
+.email-item-left{
+    position: relative;
+    margin-top: 2rem;
+    padding:1.4rem;
+}
+.email-item #pro{
+    border: 0px solid black;
+    padding:15px 20px;
+    border-radius: 50%;
+    background-color: #da6581;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+
+}
+
+.email-item-right{
+    line-height:1.4;
+}
+.email-item-right p span{
+    font-weight:600;
+}
